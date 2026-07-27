@@ -216,6 +216,4 @@ This project is licensed under the MIT License.
 
 ---
 
-👨‍💻 Author
 
-Developed and maintained by the project owner.
